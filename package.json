@@ -1,0 +1,29 @@
+{
+  "name": "one-to-two-num",
+  "version": "0.0.1",
+  "description": "You can convert one number to two number",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alimortazavi-pr/one-to-two-num.git"
+  },
+  "keywords": [
+    "number",
+    "one",
+    "two",
+    "generator",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Ali Mortazavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alimortazavi-pr/one-to-two-num/issues"
+  },
+  "homepage": "https://github.com/alimortazavi-pr/one-to-two-num#readme"
+}
